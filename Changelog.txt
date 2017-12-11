@@ -1,4 +1,4 @@
-V1.0.3
+V1.1
 Added 8.1 Oreo Fonts
 
 V.1.0.2
