@@ -1,3 +1,6 @@
+V1.0.3
+Added 8.1 Oreo Fonts
+
 V.1.0.2
 Added CAOSP bootanimation
 Edited updater-script
