@@ -1,18 +1,22 @@
+V1.1.1 (working)
+- added oreo emoji
+
 V1.1
-Added 8.1 Oreo Fonts
+- Added 8.1 Oreo Fonts
 
 V.1.0.2
-Added CAOSP bootanimation
-Edited updater-script
-Change keyboard for crDroid keyboard
+- Added CAOSP bootanimation
+- Edited updater-script
+- Change keyboard for crDroid keyboard
 
 V.1.0.1
 
-Change sounds in /media/audio
-Remove aosp keyboard for google keyboard
-Edited framework-res and change default wallpaper
+- Change sounds in /media/audio
+- Remove aosp keyboard for google keyboard
+- Edited framework-res and change default wallpaper
 
 
 V1.0:
-Initial release
+- Initial release (2017-12-06 build)
+- Change teal default UI color to Pixel UI (blue)
 
