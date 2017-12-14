@@ -1,5 +1,23 @@
 V1.1.1 (working)
 - added oreo emoji
+framework-res:
+(bools xml)
+- allow All Rotations (change false to true)
+- night Display Available (change false to true)
+- use strict phone number comparation (change false to true)
+- disable lockscreen rotation (change true to false)
+- sms utf8 support (change false to true)
+- doze After Screen Off (change false to true)
+- doze Pulse Pickup (change false to true)
+- window Is Round (change false to true)
+- device volte available (change false to true)
+- carrier volte available (change false to true)
+- enable Gesture Service (change false to true)
+- allow Animations In Low Power Mode (change false to true)
+- support Double Tap Wake (change false to true)
+- volte preferred (change false to true)
+- persist Usb Drive Notification (change true to false)
+
 
 V1.1
 - Added 8.1 Oreo Fonts
