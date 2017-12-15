@@ -1,4 +1,7 @@
-V1.1.1 (working)
+V1.2
+- Added rounded UI in recents apps
+
+V1.1.1
 - added oreo emoji
 framework-res:
 (bools xml)
