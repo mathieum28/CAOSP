@@ -1097,15 +1097,15 @@
 
         <!-- Galaxy S7 Edge -->
         <hero2lte>
-            <Filename>crDroidAndroid-7.1.2-20171212-hero2lte-v3.8.4</Filename>
+            <Filename>CAOSP-20171218-V2.0</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
-                description="Download latest builds">https://goo.gl/6jZErd</RomUrl>
+                description="Download latest builds">https://goo.gl/KVrdEV</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://raw.githubusercontent.com/crdroid-devices/android_vendor_crDroidOTA/7.1/changelog_herolte_hero2lte.txt</ChangelogUrl>
+                description="View Changelog">https://raw.githubusercontent.com/mathieum28/CAOSP/master/Changelog.txt</ChangelogUrl>
             <SlimGappsUrl
                 id="gapps"
                 title="Gapps"
@@ -1113,7 +1113,7 @@
             <XDAUrl
                 id="xda"
                 title="XDA"
-                description="Forum for help and suppport">https://forum.xda-developers.com/s7-edge/development/rom-crdroid-t3591336</XDAUrl>
+                description="Forum for help and suppport">https://forum.xda-developers.com/s7-edge/development/rom-caosp-2017-12-10-v1-0-1-t3717690</XDAUrl>
         </hero2lte>
 
         <!-- Galaxy S3 -->
