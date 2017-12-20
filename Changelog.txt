@@ -1,3 +1,6 @@
+V2.1
+- added changes from bools.xml V1.1.1 and little more in framework-res
+
 V2.0
 NEW BASE! Please make a FULL WIPE!
 
