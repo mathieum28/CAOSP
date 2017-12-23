@@ -1,3 +1,8 @@
+V2.2
+- New bootanimation
+- edit small change (bools.xml) in framework-res
+- edit apns-conf.xml
+
 V2.1
 - added changes from bools.xml V1.1.1 and little more in framework-res
 
